@@ -1,4 +1,6 @@
-# :blue_book:&nbsp;Data Structure
+##  👍 Tistory를 통해 학습을 기록하고 있습니다.
 
-####  :point_up:&nbsp;&nbsp;&nbsp;'Do it! 자료구조와 함께 배우는 알고리즘 입문(자바편)'으로 학습 중 입니다.
-####  :v:&nbsp;&nbsp;&nbsp;BOJ를 이용하여 문제풀이를 진행하는 중 입니다.
+- <a href="https://wodlszz.tistory.com/11">스택(Stack), 큐(Queue)</a></p>
+- <a href="https://wodlszz.tistory.com/12">덱(Dequeue, Double-ended Queue)</a></p>
+- <a href="https://wodlszz.tistory.com/16">연결리스트(LinkedList)</a></p>
+- <a href="https://wodlszz.tistory.com/17">이진 트리(Binary Tree)</a></p>
